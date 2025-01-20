@@ -1,8 +1,7 @@
 # Sonstige Beteiligung Angewandte Programmierung
-## Klima Streamlit-Dashboard
-
-🌍 Temperatur- und Klimaanalyse mit Prognosemodellen<br>
-📌 Projektübersicht
+## 🌍 Klima Streamlit-Dashboard
+<br>
+📌 Projektübersicht: Temperatur- und Klimaanalyse
 Dieses Projekt analysiert globale Temperaturdaten von 1850 bis 2024 und erstellt eine Prognose für die zukünftige Erwärmung basierend auf verschiedenen Klimafaktoren. Es kombiniert statistische Modelle mit exogenen Variablen (z. B. CO₂-Konzentrationen oder Treibhausgas-Emissionen) zur Vorhersage des Zeitpunkts, an dem die 1.5°C-Schwelle überschritten wird.
 
 📊 Datenquellen
