@@ -29,6 +29,7 @@ Die verwendeten Daten stammen aus verschiedenen Quellen:
 
 #### Modellierung
 - Multiple Regression
+- ARIMA- und SARIMAX-Modell
 - Vergleich zum RCP 4.5 Szenario
 
 ### 📈 Ergebnisse & Visualisierungen
