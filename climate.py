@@ -8,10 +8,10 @@ import streamlit as st
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
 # Lade Daten
-temp_file_path = "https://raw.githubusercontent.com/tech-jonas/Angewandte-Programmierung/main/Land_and_Ocean_complete.txt"
-ghg_file_path = "https://raw.githubusercontent.com/tech-jonas/Angewandte-Programmierung/main/Emissions.csv"
-erf_file_path = "https://raw.githubusercontent.com/tech-jonas/Angewandte-Programmierung/main/ERF_best_aggregates_1750-2023.csv"
-ghg_update_file_path = "https://raw.githubusercontent.com/tech-jonas/Angewandte-Programmierung/main/Update_2019-2023.csv"
+temp_file_path = "https://raw.githubusercontent.com/Tech-Jonas/Angewandte-Programmierung/main/Land_and_Ocean_complete.txt"
+ghg_file_path = "https://raw.githubusercontent.com/Tech-Jonas/Angewandte-Programmierung/main/Emissions.csv"
+erf_file_path = "https://raw.githubusercontent.com/Tech-Jonas/Angewandte-Programmierung/main/ERF_best_aggregates_1750-2023.csv"
+ghg_update_file_path = "https://raw.githubusercontent.com/Tech-Jonas/Angewandte-Programmierung/main/Update_2019-2023.csv"
 
 # relevante Spalten der Temperaturanomalien extrahieren
 with open(temp_file_path, "r", encoding="utf-8") as file:
