@@ -37,4 +37,4 @@ Die verwendeten Daten stammen aus verschiedenen Quellen:
 - Monatliche Anomalien im Langzeitvergleich
 - Absoluter Temperaturverlauf pro Monat & Jahr
 - Prognose der globalen Erwärmung bis 2100
-- Wann wird die 1.5°C-Grenze überschritten?
+- Wann wird die 1.5°C-Grenze überschritten? 
